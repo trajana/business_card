@@ -1,0 +1,19 @@
+site_name: Trajana Erlenberg
+
+theme:
+  name: material
+  favicon: null
+
+extra:
+  generator: false
+
+extra_css:
+  - styles/visitenkarte.css
+  - https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css
+
+nav:
+  - Home: index.md
+
+
+
+
