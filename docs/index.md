@@ -9,13 +9,16 @@
   </div>
 
   <div class="icons">
-    <a href="https://github.com/trajana" target="_blank" aria-label="GitHub">
-      <i class="fab fa-github"></i>
-    </a>
     <a href="https://www.linkedin.com/in/trajana-erlenberg/" target="_blank" aria-label="LinkedIn">
       <i class="fab fa-linkedin"></i>
     </a>
-    <a href="https://orcid.org/0009-0002-4463-6142 " target="_blank" aria-label="ORCID">
+    <a href="https://www.wiwi.uni-passau.de/decisions/lehrstuhlteam/wissenschaftliche-mitarbeitende/trajana-erlenberg" target="_blank" aria-label="UniPassau">
+      <i class="fab fa-university"></i>
+    </a>
+    <a href="https://github.com/trajana" target="_blank" aria-label="GitHub">
+      <i class="fab fa-github"></i>
+    </a>
+    <a href="https://orcid.org/0009-0002-4463-6142" target="_blank" aria-label="ORCID">
       <i class="fab fa-orcid"></i>
     </a>
   </div>
